@@ -31,7 +31,7 @@ This utility allows you to get a list of applications in this view:
 
 ## How to install
 ```
-go install github.com/HardDie/sway_list_of_apps
+go install github.com/HardDie/sway_list_of_apps@latest
 ```
 
 ## How to run
